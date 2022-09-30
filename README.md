@@ -1,4 +1,4 @@
 # Vertical-slider
 
 
-[Demo](https://nekrasovanatalya.github.io/Afrianska/)
+[Demo](https://nekrasovanatalya.github.io/Vertical-slider/)
